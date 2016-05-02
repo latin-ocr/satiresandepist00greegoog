@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./satiresandepist00greegoog_0010.png"; bbox 0 0 3026 4450; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 195 1656 1252 1767">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 195 1656 1252 1767">
+     <span class='ocr_line' id='line_1_1' title="bbox 195 1656 1252 1767; baseline -0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 195 1660 443 1767; x_wconf 85' lang='lat' dir='ltr'><strong>COLLEGE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 475 1659 662 1764; x_wconf 83' lang='lat' dir='ltr'>SERIES</span> <span class='ocrx_word' id='word_1_3' title='bbox 692 1661 763 1762; x_wconf 89' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_4' title='bbox 793 1659 958 1762; x_wconf 84' lang='lat' dir='ltr'><strong>LATIN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 993 1656 1252 1762; x_wconf 80' lang='lat' dir='ltr'>AUTHORS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 264 2026 1190 2084">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 264 2026 1190 2084">
+     <span class='ocr_line' id='line_1_2' title="bbox 264 2026 1190 2084; baseline -0.004 -1"><span class='ocrx_word' id='word_1_6' title='bbox 264 2027 451 2084; x_wconf 82' lang='lat' dir='ltr'><strong>CLEMENT</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 473 2027 691 2082; x_wconf 83' lang='lat' dir='ltr'><strong>LAWRENCE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 713 2027 835 2081; x_wconf 85' lang='lat' dir='ltr'>SMITH</span> <span class='ocrx_word' id='word_1_9' title='bbox 937 2026 1067 2080; x_wconf 84' lang='lat' dir='ltr'><strong>TRACY</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1089 2026 1190 2080; x_wconf 87' lang='lat' dir='ltr'>PECK</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 275 2367 1184 2507">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 275 2367 1184 2507">
+     <span class='ocr_line' id='line_1_3' title="bbox 275 2367 1184 2507; baseline 0 -1"><span class='ocrx_word' id='word_1_11' title='bbox 275 2421 480 2506; x_wconf 58' lang='lat' dir='ltr'>smmis</span> <span class='ocrx_word' id='word_1_12' title='bbox 511 2423 608 2507; x_wconf 83' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_13' title='bbox 640 2423 868 2506; x_wconf 68' lang='lat' dir='ltr'>fflsTlAEs</span> <span class='ocrx_word' id='word_1_14' title='bbox 898 2424 959 2507; x_wconf 71' lang='lat'>012</span> <span class='ocrx_word' id='word_1_15' title='bbox 989 2367 1184 2506; x_wconf 53' lang='lat' dir='ltr'><strong>H&#39;oRAcE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1518 4450">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1518 4450">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1518 4450; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1518 4450; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
